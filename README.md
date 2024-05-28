@@ -1,7 +1,7 @@
 ### Olá! Me chamo Francisco Del`Gaudio. Seja bem - vindo!
 
 - 🔭 Atualmente trabalhando com desenvolvimento de aplicações em Realidade Virtual.
-- 🌱 Estudando C#, ASP.NET.
+- 🌱 Estudando C#, ASP.NET, métodos ágeis.
 - 👯 Participante do grupo de pesquisa de Computação Visual Aplicada.
 - 🤔 Estou procurando vagas na área de programação.
 - 📫 Contato: delgaudiofrancisco.junior@gmail.com.
