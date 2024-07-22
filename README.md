@@ -1,8 +1,8 @@
 ### Olá! Me chamo Francisco Del`Gaudio. Seja bem - vindo!
 
-- 🔭 Atualmente trabalhando com desenvolvimento de aplicações em Realidade Virtual.
+- 🔭 Atualmente trabalhando com desenvolvimento de aplicações em Unity.
 - 🌱 Estudando C#, ASP.NET, métodos ágeis.
-- 👯 Participante do grupo de pesquisa de Computação Visual Aplicada.
+- 👯 Estagiário do CEASB.DT no Itaipu Parquetec
 - 🤔 Estou procurando vagas na área de programação.
 - 📫 Contato: delgaudiofrancisco.junior@gmail.com.
 - 😄 Pronouns: ele/dele.
