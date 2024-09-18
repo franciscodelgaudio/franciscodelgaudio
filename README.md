@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscodelgaudio&show_icons=true&locale=en&layout=compact&theme=dark" height="180cm"/>
 </div>
 
-<div>
+<div align="center">
 <h2>Habilidades: </h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="60" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="60" /> 
