@@ -20,5 +20,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60"/>    
 <img height="60" alt="next-js-logo-png_seeklogo-321806" src="https://github.com/user-attachments/assets/a111f805-14c7-4a38-81cf-6b62a5ffbcbc" />
 <img height="60" alt="React-icon svg" src="https://github.com/user-attachments/assets/aa2078fc-866d-4679-8c1e-028ea470a113" />
-
+<img height="60" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/993117f6-0c5b-44c0-aa78-5b744411211c" />
 </div>
