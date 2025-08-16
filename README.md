@@ -13,9 +13,8 @@
 
 <div align="center">
 <h2>Habilidades: </h2>
-<img height="60" alt="c-programming" src="https://github.com/user-attachments/assets/a0555045-2a1a-4b91-816c-12259641a620" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="60" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="60" /> 
+<img height="60" alt="c-programming" src="https://github.com/user-attachments/assets/a0555045-2a1a-4b91-816c-12259641a620" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60"/>    
